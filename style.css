@@ -80,17 +80,11 @@ footer {
 /* Mídia query para telas menores, como celulares */
 @media (max-width: 600px) {
     body {
-        font-size: 12pt;
+        font-size: 1.3em;
     }
 
     img {
         max-width: 200px;
     }
-    #msg {
-        font-size: 1.3em;
-        
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        padding-top:  20px ;
-        text-align: center;
-    }    
+       
 }
