@@ -86,29 +86,4 @@ footer {
     img {
         max-width: 200px;
     }
-
-    div#idade {
-        font-size: 1.3em;
-    }
-
-    p span input[type="number"] {
-        width: 20px;
-    }
-
-    input#ano {
-        
-        width: 50px;
-    }
-    input[type="radio"],
-input[type="checkbox"] {
-    width: 15px;
-    height: 15px;
-}
-
-    #button {
-        width: auto;
-        padding: 10px;
-        border-radius: 10px;
-        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.671);
-    }
 }
